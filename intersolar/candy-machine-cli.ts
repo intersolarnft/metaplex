@@ -1,0 +1,1 @@
+../js/packages/cli/src/candy-machine-cli.ts
